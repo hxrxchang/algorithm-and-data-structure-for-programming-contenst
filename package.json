@@ -1,0 +1,8 @@
+{
+  "name": "algorithm-and-data-structure-for-programming-contenst",
+  "version": "1.0.0",
+  "description": "a repository to learn algorithm",
+  "devDependencies": {
+    "typescript": "^3.7.2"
+  }
+}
