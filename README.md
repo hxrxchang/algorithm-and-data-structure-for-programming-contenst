@@ -1,1 +1,1 @@
-# algorithm-and-data-structure-for-programming-contenst
+# algorithm-and-data-structure-for-programming-contest
